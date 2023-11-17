@@ -1104,115 +1104,117 @@ Describe the problem your product/service solves. Help the bot with top level in
 
 3. [AI Code Reviewer](https://code-reviewer.vercel.app/) 👉 Automatic code review by AI
 
-4. [AI Data Sidekick](https://www.airops.com/) 👉 AirOps gets your whole team building reports, docs and internal tools with live data. Remarkably fast, incredibly fun.
+4. [Soffos.ai](https://www.soffos.ai) 👉 Soffos Generative AI platform is a revolutionary solution that empowers software developers as well as everyday users to effortlessly create AI solutions.
 
-5. [AI Data Sidekick](https://airops.com/sidekick) 👉 Write SQL, Python and more for free via the web or Firefox/Chrome Extension.
+5. [AI Data Sidekick](https://www.airops.com/) 👉 AirOps gets your whole team building reports, docs and internal tools with live data. Remarkably fast, incredibly fun.
 
-6. [AI Query](https://www.aiquery.co/) 👉 AI Query helps you generate complex SQL queries in seconds. Use simple English prompts to generate SQL queries. AI Query uses state of the art GPT-3 AI model to give you the best results.
+6. [AI Data Sidekick](https://airops.com/sidekick) 👉 Write SQL, Python and more for free via the web or Firefox/Chrome Extension.
 
-7. [AI Query](https://aiquery.co/) 👉 With AI Query anyone can create efficient SQL queries, without even knowing a thing about it.
+7. [AI Query](https://www.aiquery.co/) 👉 AI Query helps you generate complex SQL queries in seconds. Use simple English prompts to generate SQL queries. AI Query uses state of the art GPT-3 AI model to give you the best results.
 
-8. [AI SQL BOT](https://aihelperbot.com/) 👉 Free Trial, super easy to use, and guaranteed accuracy for generated SQL queries. Generate SQL queries using AI and with next to no effort.
+8. [AI Query](https://aiquery.co/) 👉 With AI Query anyone can create efficient SQL queries, without even knowing a thing about it.
 
-9. [AI SQL Helper](https://aihelperbot.com/) 👉 SQL query builder that generates efficient & sophisticated SQL statements.
+9. [AI SQL BOT](https://aihelperbot.com/) 👉 Free Trial, super easy to use, and guaranteed accuracy for generated SQL queries. Generate SQL queries using AI and with next to no effort.
 
-10. [AI2sql](https://www.ai2sql.io/) 👉 Write SQL in seconds
+10. [AI SQL Helper](https://aihelperbot.com/) 👉 SQL query builder that generates efficient & sophisticated SQL statements.
 
-11. [ai2sql](https://www.ai2sql.io/) 👉 With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
+11. [AI2sql](https://www.ai2sql.io/) 👉 Write SQL in seconds
 
-12. [AiFy](https://play.google.com/store/apps/details) 👉 Chat GPT AI at fingertips. Use ChatGPT anywhere on your android phone
+12. [ai2sql](https://www.ai2sql.io/) 👉 With AI2sql, engineers and non-engineers can easily write efficient, error-free SQL queries without knowing SQL.
 
-13. [Aigur Client](https://client.aigur.dev/) 👉 A free and opensource client to compose and invoke fully typed generative AI pipelines.
+13. [AiFy](https://play.google.com/store/apps/details) 👉 Chat GPT AI at fingertips. Use ChatGPT anywhere on your android phone
 
-14. [Airtest](https://www.airtest.dev/) 👉 Generate unit tests and refactor code using AI for C#, C++, Dart, Go, Java, JavaScript, Kotlin, PHP, Python, R Lang, Ruby, Rust, Swift, and TypeScript code.
+14. [Aigur Client](https://client.aigur.dev/) 👉 A free and opensource client to compose and invoke fully typed generative AI pipelines.
 
-15. [Anonymizer](https://generated.photos/anonymizer) 👉 Upload your photo and choose from AI generated faces that look like you! Protect your identity online with Photo Anonymizer
+15. [Airtest](https://www.airtest.dev/) 👉 Generate unit tests and refactor code using AI for C#, C++, Dart, Go, Java, JavaScript, Kotlin, PHP, Python, R Lang, Ruby, Rust, Swift, and TypeScript code.
 
-16. [Ask Command](https://askcommand.com/) 👉 A tiny app to remind you about those commands you always forget. Powered by AI.
+16. [Anonymizer](https://generated.photos/anonymizer) 👉 Upload your photo and choose from AI generated faces that look like you! Protect your identity online with Photo Anonymizer
 
-17. [AskAI](https://no-code-ai-model-builder.com/ask-ai) 👉 Build your own AI Q&A, with any content in minutes, with no-code, then share it anywhere on the web, embed it or access via API. Uses OpenAIs embeddings.
+17. [Ask Command](https://askcommand.com/) 👉 A tiny app to remind you about those commands you always forget. Powered by AI.
 
-18. [BatchGPT](https://batchgpt.com/) 👉 Use GPT to run tasks in your dataset
+18. [AskAI](https://no-code-ai-model-builder.com/ask-ai) 👉 Build your own AI Q&A, with any content in minutes, with no-code, then share it anywhere on the web, embed it or access via API. Uses OpenAIs embeddings.
 
-19. [Berri AI](https://berri.ai/) 👉 Berri let's you bring in your data and spin up an app in minutes (you get both an api endpoint to query and a shareable web app) as well as rapidly prototype (we provide templates and offer a 1-click deploy to test this insanely fast). We provide an easy low-code/no-code interface + best-in-class customer support (<1hr response time).
+19. [BatchGPT](https://batchgpt.com/) 👉 Use GPT to run tasks in your dataset
 
-20. [Bito AI](https://bito.co/) 👉 Generate amazing code 10x faster with ChatGPT
+20. [Berri AI](https://berri.ai/) 👉 Berri let's you bring in your data and spin up an app in minutes (you get both an api endpoint to query and a shareable web app) as well as rapidly prototype (we provide templates and offer a 1-click deploy to test this insanely fast). We provide an easy low-code/no-code interface + best-in-class customer support (<1hr response time).
 
-21. [botx.cloud](https://www.botx.cloud/platform/no-code-ai-platform/) 👉 Easily upload or connect your data, select from various of our pre-made models or train your own.
+21. [Bito AI](https://bito.co/) 👉 Generate amazing code 10x faster with ChatGPT
 
-22. [Brancher.ai](https://www.brancher.ai/) 👉 Connect AI models to build AI apps in minutes, with no-code
+22. [botx.cloud](https://www.botx.cloud/platform/no-code-ai-platform/) 👉 Easily upload or connect your data, select from various of our pre-made models or train your own.
 
-23. [Buildai](https://www.buildai.space/) 👉 Build AI interfaces in minutes. Enter the description of an AI web-app that outputs text based on user text input, and we will BUILD IT FOR YOU!
+23. [Brancher.ai](https://www.brancher.ai/) 👉 Connect AI models to build AI apps in minutes, with no-code
 
-24. [Buildt](https://www.buildt.ai/) 👉 Buildt is an AI tool to help developers quickly search and understand large codebases
+24. [Buildai](https://www.buildai.space/) 👉 Build AI interfaces in minutes. Enter the description of an AI web-app that outputs text based on user text input, and we will BUILD IT FOR YOU!
 
-25. [Channel](https://www.usechannel.com/) 👉 Connect your database, ask a question, get an answer.
+25. [Buildt](https://www.buildt.ai/) 👉 Buildt is an AI tool to help developers quickly search and understand large codebases
 
-26. [Cheat Layer](https://cheatlayer.com/) 👉 No-Code Business Automation. Cheat layer solves impossible business automation problems using a combination of no-code tools and machine learning to function as your personal software engineer.
+26. [Channel](https://www.usechannel.com/) 👉 Connect your database, ask a question, get an answer.
 
-27. [Clippy AI](https://marketplace.visualstudio.com/items) 👉 Extension for Visual Studio Code - OpenAI Codex client
+27. [Cheat Layer](https://cheatlayer.com/) 👉 No-Code Business Automation. Cheat layer solves impossible business automation problems using a combination of no-code tools and machine learning to function as your personal software engineer.
 
-28. [Cmd J – ChatGPT for Chrome](https://install.cmdj.app/) 👉 Use ChatGPT on any tab without the hassle of copy-pasting. It's like Notion AI, but for any product.
+28. [Clippy AI](https://marketplace.visualstudio.com/items) 👉 Extension for Visual Studio Code - OpenAI Codex client
 
-29. [Coadfiller AI](https://coadfiller.biz/) 👉 AI code fixer | Coadfiller
+29. [Cmd J – ChatGPT for Chrome](https://install.cmdj.app/) 👉 Use ChatGPT on any tab without the hassle of copy-pasting. It's like Notion AI, but for any product.
 
-30. [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) 👉 Generate or change the code, given a description of the changes that you want to make.
+30. [Coadfiller AI](https://coadfiller.biz/) 👉 AI code fixer | Coadfiller
 
-31. [Codeball](https://codeball.ai/) 👉 Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
+31. [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) 👉 Generate or change the code, given a description of the changes that you want to make.
 
-32. [Codecleaningbot](https://www.codecleaningbot.com/) 👉 Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc
+32. [Codeball](https://codeball.ai/) 👉 Codeball finds bugs in your Pull Requests, lets you ship faster and with higher confidence.
 
-33. [Codeium](https://www.codeium.com/) 👉 Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
+33. [Codecleaningbot](https://www.codecleaningbot.com/) 👉 Code Cleaning AI Bot fixes common code quality and security issues. Like: deleting unused and unreachable code, fix SQL injection, etc
 
-34. [Coderbuds](https://coderbuds.com/) 👉 Coderbuds
+34. [Codeium](https://www.codeium.com/) 👉 Codeium is the modern coding superpower, a free AI-powered code completion tool. It supports over 20+ languages and integrates with your favorite IDEs, with lightning fast speeds and state-of-the-art suggestion quality.
 
-35. [CodeSnippets.ai](https://codesnippets.ai/) 👉 Turn your questions into code! Easily store and fetch your snippets. Collaborate with your team. AI Powered WebIDE & VSCode extension Create documentation, Refactor, Debug and Generate code with the click of a button. We use a fine-tuned AI model trained on GPT3, which provide faster and more accurate responses to your questions, compared to Codex apps. Save your code snippets into your library for your whole team to use. Search snippets by language, name or folder & create your own folder structure to suit your needs.
+35. [Coderbuds](https://coderbuds.com/) 👉 Coderbuds
 
-36. [CodeSquire](https://codesquire.ai/) 👉 Write code quickly and efficiently with AI code suggestions
+36. [CodeSnippets.ai](https://codesnippets.ai/) 👉 Turn your questions into code! Easily store and fetch your snippets. Collaborate with your team. AI Powered WebIDE & VSCode extension Create documentation, Refactor, Debug and Generate code with the click of a button. We use a fine-tuned AI model trained on GPT3, which provide faster and more accurate responses to your questions, compared to Codex apps. Save your code snippets into your library for your whole team to use. Search snippets by language, name or folder & create your own folder structure to suit your needs.
 
-37. [CodeWP](https://codewp.ai/) 👉 CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker.
+37. [CodeSquire](https://codesquire.ai/) 👉 Write code quickly and efficiently with AI code suggestions
 
-38. [Cogniflow](https://www.cogniflow.ai/) 👉 The easiest way to build AI from text, image, or audio. In minutes. No code required.
+38. [CodeWP](https://codewp.ai/) 👉 CodeWP is a WordPress code generator that uses AI and specialized models for WordPress, Woo and others to help you build better & quicker.
 
-39. [Copilot](https://github.com/features/copilot) 👉 Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+39. [Cogniflow](https://www.cogniflow.ai/) 👉 The easiest way to build AI from text, image, or audio. In minutes. No code required.
 
-40. [CSM](https://csm.ai/) 👉 APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation.
+40. [Copilot](https://github.com/features/copilot) 👉 Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 
-41. [Data Explorer](https://ossinsight.io/explore/) 👉 Simply ask your question in natural language and Data Explore will generate SQL, query the data, and present the results visually.
+41. [CSM](https://csm.ai/) 👉 APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation.
 
-42. [Datamaker](https://www.datamaker.dev/) 👉 If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems.
+42. [Data Explorer](https://ossinsight.io/explore/) 👉 Simply ask your question in natural language and Data Explore will generate SQL, query the data, and present the results visually.
 
-43. [Debuild](https://debuild.app/) 👉 Build web apps lightning fast.
+43. [Datamaker](https://www.datamaker.dev/) 👉 If you are a Webflow Designer or Webflow Developer then you need to see these tools. Use AI to create code and copy to solve your Webflow problems.
 
-44. [Double](https://www.usedouble.com/) 👉 Double is an internet-capable GPT bot that can automate repetitive tasks, like scraping websites, cleaning data, and searching Google in bulk.
+44. [Debuild](https://debuild.app/) 👉 Build web apps lightning fast.
 
-45. [Duino Code Generator](https://www.duinocodegenerator.com/) 👉 Automatically generate code for any Arduino compatible board with a single click. Let AI do the hard work so you can spend more time tinkering!
+45. [Double](https://www.usedouble.com/) 👉 Double is an internet-capable GPT bot that can automate repetitive tasks, like scraping websites, cleaning data, and searching Google in bulk.
 
-46. [Dust](https://dust.tt/) 👉 Design and Deploy Large Language Model Apps. Prompt engineering, re-imagined.
+46. [Duino Code Generator](https://www.duinocodegenerator.com/) 👉 Automatically generate code for any Arduino compatible board with a single click. Let AI do the hard work so you can spend more time tinkering!
 
-47. [Dystr](https://dystr.com/) 👉 Dystr is an AI powered engineering environment designed to help technical teams automate tasks, run analysis with visualizations, & perform complex calculations
+47. [Dust](https://dust.tt/) 👉 Design and Deploy Large Language Model Apps. Prompt engineering, re-imagined.
 
-48. [Eden AI](https://edenai.co/) 👉 All AI (AIaaS) in a single simple and clear API. Get a unique API connected to the best AI engines.
+48. [Dystr](https://dystr.com/) 👉 Dystr is an AI powered engineering environment designed to help technical teams automate tasks, run analysis with visualizations, & perform complex calculations
 
-49. [Evoke](https://evoke-app.com/) 👉 Run open source AI models on the cloud with our APIs.
+49. [Eden AI](https://edenai.co/) 👉 All AI (AIaaS) in a single simple and clear API. Get a unique API connected to the best AI engines.
 
-50. [ExplainDev](https://explain.dev/) 👉 ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI.
+50. [Evoke](https://evoke-app.com/) 👉 Run open source AI models on the cloud with our APIs.
 
-51. [Fig AI](https://fig.io/user-manual/ai/) 👉 A seamless add-on to your existing terminal, Fig integrates with the most popular terminals, shells & IDEs.
+51. [ExplainDev](https://explain.dev/) 👉 ExplainDev helps you to be more confident and independent with others' code. Get code explanations and direct answers to your questions via Chrome and VS Code extensions powered by AI.
 
-52. [Figstack](https://www.figstack.com/) 👉 Reading and writing code is hard! Figstack helps you interpret the details so you can focus on building what matters
+52. [Fig AI](https://fig.io/user-manual/ai/) 👉 A seamless add-on to your existing terminal, Fig integrates with the most popular terminals, shells & IDEs.
 
-53. [Ghostwriter](https://replit.com/site/ghostwriter) 👉 An AI pair programmer that helps you write better code, faster.
+53. [Figstack](https://www.figstack.com/) 👉 Reading and writing code is hard! Figstack helps you interpret the details so you can focus on building what matters
 
-54. [git18n](https://git18n.com/) 👉 Supercharge App Development with AI-Powered Copywriting and Translation
+54. [Ghostwriter](https://replit.com/site/ghostwriter) 👉 An AI pair programmer that helps you write better code, faster.
 
-55. [Github Copilot](https://github.com/features/copilot) 👉 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
+55. [git18n](https://git18n.com/) 👉 Supercharge App Development with AI-Powered Copywriting and Translation
 
-56. [Godly](https://godly.ai/) 👉 Godly makes it easy to add your own data to GPT3 for personalized completions.
+56. [Github Copilot](https://github.com/features/copilot) 👉 GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you.
 
-57. [Gooey.AI](https://gooey.ai/) 👉 With Gooey.AI, every company is an AI company. We make Generative AI radically simple. From idea to product in minutes with no code. Find, tweak and fork AI workflows to your own website or app. All from one billing account to access them all.
+57. [Godly](https://godly.ai/) 👉 Godly makes it easy to add your own data to GPT3 for personalized completions.
 
-58. [GPT95 - A ChatGPT extension, with a retro look](https://gpt95.com/) 👉 This Visual Studio Code extension allows you to use ChatGPT combined with our Fine-Tuned GPT3 Code Model to generate code or natural language responses to your questions.
+58. [Gooey.AI](https://gooey.ai/) 👉 With Gooey.AI, every company is an AI company. We make Generative AI radically simple. From idea to product in minutes with no code. Find, tweak and fork AI workflows to your own website or app. All from one billing account to access them all.
+
+59. [GPT95 - A ChatGPT extension, with a retro look](https://gpt95.com/) 👉 This Visual Studio Code extension allows you to use ChatGPT combined with our Fine-Tuned GPT3 Code Model to generate code or natural language responses to your questions.
 
 Automatically generate code from scratch, ask questions, get explanations, refactor code, find bugs and more!
 
@@ -4005,3 +4007,4 @@ Altered AI is ideal for anyone who needs high-quality voice content for their br
 14. [AI Dating Simulator](https://boredhumans.com/dating.php) 👉 Practice going on dates. Free, no signup needed.
 
 15. [DatingAI.pro](https://datingai.pro/) 👉 DatingAI.pro is an AI Dating assistant to help you up your dating game by helping you write an AI-generated impressive bio, impress your dates with amazing pickup lines, and get smart replies to their messages.
+16 
